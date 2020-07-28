@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>material/black-click-pen-on-white-paper-167682.jpg</file>
+        <file>material/close.png</file>
+        <file>material/choosesence.jpg</file>
+        <file>material/lianxi.jpg</file>
+        <file>material/back.ico</file>
+    </qresource>
+</RCC>
